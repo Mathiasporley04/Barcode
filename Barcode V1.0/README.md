@@ -3,6 +3,10 @@
 ## 📋 Descripción
 Generador profesional de códigos de barras Code39 optimizado para impresoras térmicas HY Z18LW DECODER V1.3. Genera etiquetas PDF de 4cm x 3cm con adaptación automática de tamaño.
 
+# Error principal a corregir: NO ENCUENTRA EL ESCRITORIO (solamente funciona localmente en el escritorio de mi notebook)
+
+
+
 ## ✨ Características
 - ✅ **Etiquetas 4cm x 3cm** - Tamaño exacto para impresión
 - ✅ **Code39 optimizado** - Compatible con HY Z18LW DECODER V1.3
